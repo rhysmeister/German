@@ -1,2 +1,1 @@
-# German
-A project with a German dictionary and Spark
+Dictionary from https://freedict.org/downloads/
